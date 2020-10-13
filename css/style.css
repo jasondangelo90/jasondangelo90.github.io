@@ -1,0 +1,40 @@
+html {
+    background-color: pink;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: rgb(26, 53, 80);
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid white;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 7px pink;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: pink;
+    margin: 10px 0px;
+    text-shadow: 2px 2px 7px red;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 20px 0px 20px;
+    
+}
+
+#des {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
